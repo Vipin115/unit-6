@@ -1,37 +1,40 @@
 {
-    "countries":[
-        {
-            "id":1,
-            "country":"India"
-        },
-        {
-            "id":2,
-            "country":"America"
-        },
-        {
-            "id":3,
-            "country":"Sweden"
-        }
-    ],
-    "cities":[
-        {
-            "id":1,
-            "city":"newyork",
-            "country":"America",
-            "popullation":2000000
-        },
-        {
-            "id":2,
-            "city":"delhi",
-            "country":"India",
-            "popullation":4500000
-        },
-        {
-            "id":3,
-            "city":"kathmandu",
-            "country":"Nepal",
-            "popullation":6000000
-        }
-
-    ]
+  "countries": [
+    {
+      "id": 1,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "country": "America"
+    },
+    {
+      "id": 3,
+      "country": "Sweden"
+    },
+    {
+      "name": "singapor",
+      "id": 4
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "city": "newyork",
+      "country": "America",
+      "population": 2000000
+    },
+    {
+      "id": 2,
+      "city": "delhi",
+      "country": "India",
+      "population": 4500000
+    },
+    {
+      "id": 3,
+      "city": "kathmandu",
+      "country": "Nepal",
+      "population": 6000000
+    }
+  ]
 }
